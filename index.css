@@ -1,0 +1,45 @@
+#img1{
+    width: 600px;
+}
+#img-cont{
+    display: inline-block;
+    margin-left: 300px;
+    vertical-align: middle;
+    margin-top: 40px;
+    
+}
+#just-wrds{
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 40px;
+    font-size: 30px;
+    margin-left: 20px;
+}
+#myname{
+    font-size: 61px;
+}
+#myname-cont{
+    display: inline-block;
+}
+#whatido{
+  width: 500px;  
+}
+#contactme{
+    background-color: chocolate;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 90px;
+}
+#home{
+    background-color: chocolate;
+    padding: 10px;
+    border-radius:  10px;
+    margin-left: 320px;
+    
+}
+#menu-btn{
+    background-color: chocolate;
+    padding: 10px;
+    border-radius:  10px;
+    margin-left: 100px;
+}
